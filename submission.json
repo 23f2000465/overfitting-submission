@@ -1,0 +1,6 @@
+{
+  "prompt": "A cinematic photorealistic scene of an extremely precise tailored suit fitted perfectly onto a twisted asymmetrical stone sculpture in a museum. Every stitch and seam of the suit follows each crack, bump and irregular curve of the stone with impossible precision — a perfect fit. Standing right next to it, a normal human trying to wear an identical suit but it is completely distorted, unwearable, falling apart on their body. Dramatic museum lighting, marble floor, shallow depth of field, 8k quality, photorealistic. No text, no labels, no writing anywhere.",
+  "model": "Ideogram 2",
+  "concept": "overfitting",
+  "metaphor": "A suit tailored perfectly to a twisted stone sculpture fits the stone with impossible precision but is completely unwearable on a normal human — representing a model that memorizes training noise but fails to generalize to new data."
+}
